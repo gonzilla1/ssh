@@ -1,4 +1,14 @@
+no tls
+vmess://eyJ0bHMiOiAibm9uZSIsICJ2IjogIjIiLCAiaG9zdCI6ICJpZDEtcmF5Lmlwc2VydmVycy54eXoiLCAidHlwZSI6ICIiLCAicHMiOiAiamFnb2Fuc3NoLXNwaWRlcm1vbiIsICJwb3J0IjogODAsICJuZXQiOiAid3MiLCAiaWQiOiAiODFkODljZDgtZmVlNS00M2Q0LWI0MTEtMjExNzU0NDM4YTAzIiwgInBhdGgiOiAiL0pBR09BTlNTSC8iLCAiYWRkIjogImJ1Zy5jb20iLCAiYWlkIjogMH0=
 
+tls
+vmess://eyJhZGQiOiAiaWQxLXJheS5pcHNlcnZlcnMueHl6IiwgImhvc3QiOiAiYnVnLmNvbSIsICJhaWQiOiAwLCAidHlwZSI6ICIiLCAicGF0aCI6ICIvSkFHT0FOU1NILyIsICJuZXQiOiAid3MiLCAicHMiOiAiamFnb2Fuc3NoLXNwaWRlcm1vbiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJwb3J0IjogIjQ0MyIsICJ2IjogIjIiLCAiaWQiOiAiODFkODljZDgtZmVlNS00M2Q0LWI0MTEtMjExNzU0NDM4YTAzIn0=
 
-system vmess ws dimatikan❗
-
+Host : id1-ray.ipservers.xyz
+User : jagoanssh-spidermon
+UUID : 81d89cd8-fee5-43d4-b411-211754438a03
+Port TLS : 443
+None TLS : 80
+Vmess : WS
+Path : /JAGOANSSH/
+Expired : 15-05-2024

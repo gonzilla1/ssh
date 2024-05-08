@@ -1,4 +1,14 @@
+no tls
+vmess://eyJ0bHMiOiAibm9uZSIsICJ2IjogIjIiLCAiaG9zdCI6ICJhdS1yYXkuaXBzZXJ2ZXJzLnh5eiIsICJ0eXBlIjogIiIsICJwcyI6ICJqYWdvYW5zc2gtdWFuZ3Jha3lhdCIsICJwb3J0IjogODAsICJuZXQiOiAid3MiLCAiaWQiOiAiNTM5ZTJkNjgtMzhjYi00NzQ2LWE3MTMtZjc2MGY5Njg0MmVlIiwgInBhdGgiOiAiL0pBR09BTlNTSC8iLCAiYWRkIjogImJ1Zy5jb20iLCAiYWlkIjogMH0=
 
+tls
+vmess://eyJhZGQiOiAiYXUtcmF5Lmlwc2VydmVycy54eXoiLCAiaG9zdCI6ICJidWcuY29tIiwgImFpZCI6IDAsICJ0eXBlIjogIiIsICJwYXRoIjogIi9KQUdPQU5TU0gvIiwgIm5ldCI6ICJ3cyIsICJwcyI6ICJqYWdvYW5zc2gtdWFuZ3Jha3lhdCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJwb3J0IjogIjQ0MyIsICJ2IjogIjIiLCAiaWQiOiAiNTM5ZTJkNjgtMzhjYi00NzQ2LWE3MTMtZjc2MGY5Njg0MmVlIn0=
 
-system vmess ws dimatikan❗
-
+Host : au-ray.ipservers.xyz
+User : jagoanssh-uangrakyat
+UUID : 539e2d68-38cb-4746-a713-f760f96842ee
+Port TLS : 443
+None TLS : 80
+Vmess : WS
+Path : /JAGOANSSH/
+Expired : 15-05-2024

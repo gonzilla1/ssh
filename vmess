@@ -1,4 +1,14 @@
+no tls
+vmess://eyJ0bHMiOiAibm9uZSIsICJ2IjogIjIiLCAiaG9zdCI6ICJzZzItcmF5Lmlwc2VydmVycy54eXoiLCAidHlwZSI6ICIiLCAicHMiOiAiamFnb2Fuc3NoLWlyb25tYW4xIiwgInBvcnQiOiA4MCwgIm5ldCI6ICJ3cyIsICJpZCI6ICI4YmExY2YzYy1mNGIwLTQ4M2QtOWM3Ni0xODQ4MTQ1ZTc1OTQiLCAicGF0aCI6ICIvSkFHT0FOU1NILyIsICJhZGQiOiAiYnVnLmNvbSIsICJhaWQiOiAwfQ==
 
+tls
+vmess://eyJhZGQiOiAic2cyLXJheS5pcHNlcnZlcnMueHl6IiwgImhvc3QiOiAiYnVnLmNvbSIsICJhaWQiOiAwLCAidHlwZSI6ICIiLCAicGF0aCI6ICIvSkFHT0FOU1NILyIsICJuZXQiOiAid3MiLCAicHMiOiAiamFnb2Fuc3NoLWlyb25tYW4xIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInBvcnQiOiAiNDQzIiwgInYiOiAiMiIsICJpZCI6ICI4YmExY2YzYy1mNGIwLTQ4M2QtOWM3Ni0xODQ4MTQ1ZTc1OTQifQ==
 
-system vmess ws dimatikan❗
-
+Host : sg2-ray.ipservers.xyz
+User : jagoanssh-ironman1
+UUID : 8ba1cf3c-f4b0-483d-9c76-1848145e7594
+Port TLS : 443
+None TLS : 80
+Vmess : WS
+Path : /JAGOANSSH/
+Expired : 15-05-2024
