@@ -1,14 +1,4 @@
-no tls
-vmess://eyJ0bHMiOiAibm9uZSIsICJ2IjogIjIiLCAiaG9zdCI6ICJpZDItcmF5Lmlwc2VydmVycy54eXoiLCAidHlwZSI6ICIiLCAicHMiOiAiamFnb2Fuc3NoLWhlcnJ5cG9ydCIsICJwb3J0IjogODAsICJuZXQiOiAid3MiLCAiaWQiOiAiYjcwYTkxMjctZmEzOC00ZGRiLTliZjktODgwZDZjYTg4Mzk2IiwgInBhdGgiOiAiL0pBR09BTlNTSC8iLCAiYWRkIjogImJ1Zy5jb20iLCAiYWlkIjogMH0=
 
-tls
-vmess://eyJhZGQiOiAiaWQyLXJheS5pcHNlcnZlcnMueHl6IiwgImhvc3QiOiAiYnVnLmNvbSIsICJhaWQiOiAwLCAidHlwZSI6ICIiLCAicGF0aCI6ICIvSkFHT0FOU1NILyIsICJuZXQiOiAid3MiLCAicHMiOiAiamFnb2Fuc3NoLWhlcnJ5cG9ydCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJwb3J0IjogIjQ0MyIsICJ2IjogIjIiLCAiaWQiOiAiYjcwYTkxMjctZmEzOC00ZGRiLTliZjktODgwZDZjYTg4Mzk2In0=
 
-Host : id2-ray.ipservers.xyz
-User : jagoanssh-herryport
-UUID : b70a9127-fa38-4ddb-9bf9-880d6ca88396
-Port TLS : 443
-None TLS : 80
-Vmess : WS
-Path : /JAGOANSSH/
-Expired : 15-05-2024
+SERVER VMESS DIMATIKAN SIJHON❗
+
